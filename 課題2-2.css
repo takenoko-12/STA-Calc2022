@@ -1,0 +1,19 @@
+@charset "utf-8";
+/*ボタンの装飾*/
+button {
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine;
+    border-radius: 20%;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+}
+button:hover{
+    background: #90ddbb;
+}
+
+input{
+    width: 265px;
+    background-color: #dcdcdca4;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
